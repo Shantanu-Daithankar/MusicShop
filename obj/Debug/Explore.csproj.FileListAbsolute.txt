@@ -1,0 +1,7 @@
+D:\shantanu\apps\Explore\bin\Debug\Explore.exe.config
+D:\shantanu\apps\Explore\bin\Debug\Explore.exe
+D:\shantanu\apps\Explore\bin\Debug\Explore.pdb
+D:\shantanu\apps\Explore\obj\Debug\Explore.csprojAssemblyReference.cache
+D:\shantanu\apps\Explore\obj\Debug\Explore.csproj.CoreCompileInputs.cache
+D:\shantanu\apps\Explore\obj\Debug\Explore.exe
+D:\shantanu\apps\Explore\obj\Debug\Explore.pdb

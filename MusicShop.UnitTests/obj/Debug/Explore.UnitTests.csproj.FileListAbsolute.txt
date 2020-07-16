@@ -1,0 +1,10 @@
+D:\shantanu\apps\Explore\Explore.UnitTests\bin\Debug\Explore.UnitTests.dll
+D:\shantanu\apps\Explore\Explore.UnitTests\bin\Debug\Explore.UnitTests.pdb
+D:\shantanu\apps\Explore\Explore.UnitTests\bin\Debug\nunit.framework.dll
+D:\shantanu\apps\Explore\Explore.UnitTests\bin\Debug\nunit.framework.pdb
+D:\shantanu\apps\Explore\Explore.UnitTests\bin\Debug\nunit.framework.xml
+D:\shantanu\apps\Explore\Explore.UnitTests\obj\Debug\Explore.UnitTests.csprojAssemblyReference.cache
+D:\shantanu\apps\Explore\Explore.UnitTests\obj\Debug\Explore.UnitTests.csproj.CoreCompileInputs.cache
+D:\shantanu\apps\Explore\Explore.UnitTests\obj\Debug\Explore.UnitTests.csproj.CopyComplete
+D:\shantanu\apps\Explore\Explore.UnitTests\obj\Debug\Explore.UnitTests.dll
+D:\shantanu\apps\Explore\Explore.UnitTests\obj\Debug\Explore.UnitTests.pdb
