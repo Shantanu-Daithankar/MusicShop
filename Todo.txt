@@ -1,0 +1,11 @@
+
+company crud api
+mocking and stubbing
+bdd
+tdd
+dapper/entity framework
+
+security
+logging
+ci/cd
+distributed services/docker
